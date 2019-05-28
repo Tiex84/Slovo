@@ -10,6 +10,8 @@ Child Theme Project: [https://github.com/understrap/understrap-child](https://gi
 
 ## About
 
+We love Understrap.
+
 I’m a huge fan of Underscores, Bootstrap, and Sass. Why not combine these into a solid WordPress Theme Framework? That’s what UnderStrap is. You can use it as a starter theme and build your own theme on top of it. Or you can use it as a parent theme and create your own child theme for UnderStrap.
 
 ## License
