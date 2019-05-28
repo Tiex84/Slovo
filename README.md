@@ -2,7 +2,7 @@ Travis build: [![Build Status](https://travis-ci.org/understrap/understrap.svg?b
 
 #### See: [Official Demo](https://understrap.com/understrap) | Read: [Official Docs Page](https://understrap.github.io/)
 
-# UnderStrap WordPress Theme Framework
+# Slovo fork of UnderStrap WordPress Theme Framework
 
 Website: [https://understrap.com](https://understrap.com)
 
